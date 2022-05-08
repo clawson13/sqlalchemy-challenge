@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# postgres username and password
+config.py
+
+# Desktop Services Store
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
