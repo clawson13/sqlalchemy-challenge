@@ -1,18 +1,19 @@
-# sqlalchemy-challenge
+# Surf's Up! Climate API
 
-# Employee Database
-
-Homework for Boot Camp Week 9: SQL; Submitted by Corey Lawson-Enos
+Homework for Boot Camp Week 10: SQLAlchemy; Submitted by Corey Lawson-Enos
 
 ## Summary
-* **employees**: Created in SQL, *employees* database tracks employee data including name, sex, birth date, hire date, department, title, and salary. Includes constraints to preserve database structure and ensure accurate data entry.
+* SQLAlchemy code that studies Hawaiian weather station data minimums, maximums, and averages for period 2010-2017. 
+* Calculates normals to predict temperature ranges for future periods as specified by the user. 
+* Includes API feature 
 
 ## Technologies
-SQL (pgAdmin), Matplotlib, Pandas, Jupyter Notebook
+SQLAlchemy, Matplotlib, Pandas, NumPy SciPy, Jupyter Notebook
 
-## Entity Relationship Diagram (ERD)
+## API Access
 
-![alt text](EmployeeSQL/images/ERD.png)
+* Open app.py file from Terminal/Command Prompt: python app.py
+* 
 
 ## Additional Analysis
 * Histogram of employee counts by salary range:
