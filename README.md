@@ -1,6 +1,6 @@
 # Surf's Up! Climate API
 
-Homework for Boot Camp Week 10: SQLAlchemy; Submitted by Corey Lawson-Enos
+Prepared by Corey Lawson-Enos
 
 ## Summary
 * SQLAlchemy code that studies Hawaiian weather station data minimums, maximums, and averages for period 2010-2017. 
@@ -8,7 +8,7 @@ Homework for Boot Camp Week 10: SQLAlchemy; Submitted by Corey Lawson-Enos
 * Includes API feature.
 
 ## Technologies
-SQLAlchemy, Matplotlib, Pandas, NumPy SciPy, Jupyter Notebook
+SQLAlchemy, Flask, Pandas, NumPy, SciPy, Matplotlib, Jupyter Notebook
 
 ## API Access
 
