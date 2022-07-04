@@ -23,3 +23,7 @@ SQLAlchemy, Flask, Pandas, NumPy, SciPy, Matplotlib, Jupyter Notebook
 * Sample area plot generator used to predict normals for future periods: 
 
 ![alt text](Images/daily_normals.png)
+
+## Contact
+E-mail: clawson131@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/corey-lawson-enos/
